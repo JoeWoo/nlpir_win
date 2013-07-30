@@ -18,7 +18,7 @@ module Nlpir
   POS_SIZE = 40
 
   Result_t = struct ['int start','int length',"char  sPOS[#{POS_SIZE}]",'int iPOS',
-  		          'int word_ID','int word_type','double weight']
+  		          'int word_ID','int word_type','int weight']
 
   GBK_CODE = 0                                                    #默认支持GBK编码
   UTF8_CODE = GBK_CODE + 1                          #UTF8编码
