@@ -2,6 +2,8 @@
 
 A rubygem wrapper of chinese segment tools ICTCLAS2013
 
+Nlpir version 0.0.3 , gem nlpir-0.0.3-x86-mingw32 support '>=ruby2.0.0' on win7.
+
 ## Installation
 
 Add this line to your application's Gemfile:
@@ -18,7 +20,6 @@ Or install it yourself as:
 
 ## Usage
 
-Nlpir version 0.0.3 , gem nlpir-0.0.3-x86-mingw32 support '>=ruby2.0.0' on win7.
 
 some DEFINE you may use :
 ```ruby
