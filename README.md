@@ -2,7 +2,7 @@
 
 A rubygem wrapper of chinese segment tools ICTCLAS2013
 
-Nlpir version 0.0.3 , gem nlpir-0.0.3-x86-mingw32 support '>=ruby2.0.0' on win7. For *nix OS is [nlpir](https://github.com/JoeWoo/nlpir)
+Nlpir version 0.0.4 , gem nlpir-0.0.4-x86-mingw32 support '>=ruby2.0.0' on win7. For *nix OS is [nlpir](https://github.com/JoeWoo/nlpir)
 
 ## Installation
 
