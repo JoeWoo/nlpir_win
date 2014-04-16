@@ -28,7 +28,7 @@ module Nlpir
   @charset = 'utf-8'
 
   #提取链接库接口
-  libm = Fiddle.dlopen(File.expand_path("../../bin/libNLPIR.so", __FILE__))
+  libm = Fiddle.dlopen(File.expand_path("../../bin/NLPIR.dll", __FILE__))
  
  NLPIR_Init_rb = Fiddle::Function.new(
     libm['NLPIR_Init'],

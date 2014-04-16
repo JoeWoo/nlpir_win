@@ -61,7 +61,7 @@ result
       text_proc("1989年春夏之交的政治风波1989年政治风波24小时降雪量24小时降雨量863计划ABC防护训练APEC会议BB机BP机C2系统C3I系统C3系统C4ISR系统C4I系统CCITT建议")
     
     file_proc("./test.txt", "./test_result.txt", NLPIR_TRUE)
-    assert_equal 16932,
+    assert_equal 17036,
       File.open("./test_result.txt").size
 
     assert_equal 15,
